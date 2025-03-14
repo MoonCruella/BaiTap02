@@ -1,6 +1,7 @@
 ﻿/* Ch2_Vd1.cs: Tinh chu vi va dien tich hinh tron
  * Name: Nguyen A
  * Date:22/10/2020
+ * Name: Vo Van Tuan
  */
 
 using System;
